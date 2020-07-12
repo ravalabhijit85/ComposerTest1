@@ -1,5 +1,5 @@
 {
-    "name": "MyComposer/ComposerTest1",
+    "name": "MyComposer/composer-test-1",
     "description": "My first packagist package",
     "type": "package",
     "require": {
@@ -16,7 +16,7 @@
     "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
-            "ComposerTest1\\ComposerTest1\\": "src/"
+            "composer-test-1\\composer-test-1\\": "src/"
         }
     }
 }
