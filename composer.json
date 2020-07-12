@@ -16,7 +16,7 @@
     "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
-            "ComposerTest1\\HelloComposer\\": "src/"
+            "ComposerTest1\\ComposerTest1\\": "src/"
         }
     }
 }
