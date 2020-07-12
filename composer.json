@@ -1,5 +1,5 @@
 {
-    "name": "ourcodeworld/hello-composer",
+    "name": "MyComposer/ComposerTest1",
     "description": "My first packagist package",
     "type": "package",
     "require": {
